@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>
-        React qa  TEST!!!.
+        TEST REACT DESDE QA.
       </h1>
       <h3>
         Clon de Netflix.
