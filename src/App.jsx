@@ -4,14 +4,12 @@ const App = () => {
   return (
     <div>
       <h1>
-        Hola Mundo!!!
+        React clon !!!
       </h1>
       <h3>
         Clon de Netflix.
       </h3>
-      <h4>
-        test deploy....
-      </h4>
+
     </div>
   )
 }
