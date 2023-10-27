@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>
-        Hola Mundo!!!
+        Hola Mundo!!!.
       </h1>
     </div>
   )
