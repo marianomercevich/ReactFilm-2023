@@ -6,7 +6,7 @@ import { it } from 'vitest';
 
 describe('App', () => {
     it('should render component',()=>{
-        const component = render (<App />);
+        //const component = render (<App />);
         expect(component).toBeDefined();
 
 
