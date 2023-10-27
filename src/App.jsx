@@ -9,9 +9,7 @@ const App = () => {
       <h3>
         Clon de Netflix.
       </h3>
-      <h4>
-        test
-      </h4>
+
 
     </div>
   )
