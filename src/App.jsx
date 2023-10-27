@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>
-        Hola Mundo!!!
+        react desde Uat!!!
       </h1>
       <h3>
         Clon de Netflix.
